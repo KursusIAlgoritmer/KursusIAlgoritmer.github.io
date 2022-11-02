@@ -1,4 +1,4 @@
-# Obligatorisk aflevering 2 - deadline onsdag d19/10 eller mandag d.14/11
+## Obligatorisk aflevering 2 - deadline onsdag d19/10 eller mandag d.14/11
 
 På en skibake ligger "n-1" nedadgående pister forbundet af "n" steder, der i nogle tilfælde forgrenner sig til nye pister. Ved ende-stationer, dvs. steder uden udgående forgreninger, er der mulighed for at tage en lift tilbage til bjergets top. Rejsetiden for hver pist er 1 minut. Rejsetiden for liften er altid 5 minutter.
 
