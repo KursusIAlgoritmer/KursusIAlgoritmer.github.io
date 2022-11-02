@@ -7,8 +7,7 @@ På en skibake ligger "n-1" nedadgående pister forbundet af "n" steder, der i n
 2. ***Udskrivning af hurtigste vej:*** For at finde den hurtigste vej laves en bredde-først-søgning fra det ønskede startpunkt. Det er på den måde muligt at udskrive den hurtigste vej til et givent endepunkt, ved at udlade de ekstra fire lift-knuder.      
 3. ***Beregning af hurtigste vej:*** For at finde tiden for den hurtigste rute laves en bredde-først-søgning fra det ønskede startpunkt. Antallet af kanter i ruten udgør dermed rejsetiden.   
 
-### Del 2: Koden
-[https://github.com/KursusIAlgoritmer/KursusIAlgoritmer.github.io/tree/main/Aflevering2](https://github.com/KursusIAlgoritmer/KursusIAlgoritmer.github.io/tree/main/Aflevering2)
+### Del 2: Koden [https://github.com/KursusIAlgoritmer/KursusIAlgoritmer.github.io/tree/main/Aflevering2](https://github.com/KursusIAlgoritmer/KursusIAlgoritmer.github.io/tree/main/Aflevering2)
 
 ### Del 3: Analyse af udførselstiden som funktion af n
 Den rettede graf er implementeret som en "ajacency list", og "oprettelsestiden" er derfor propertionel med E+V, hvor E er antallet af kanter og V er antallet af knuder. Operationerne "den hurtigste vej" og "den hurtigste tid" er implementeret som bredde-først-søgninger og udførselstiden for disse er altså ligeledes propertionelle med E+V.
