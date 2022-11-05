@@ -7,6 +7,11 @@
 
 ## 1. Primitive datastrukturer: S&W kapitel 1.3-1.5
 
+# 1.3 Bag, Queues and Stacks
+
+# 1.4 Anlysis of Algorithms
+
+# 1.5 Union-find
 
 ----------------------------------------------------------------------------------------------------------------
 
