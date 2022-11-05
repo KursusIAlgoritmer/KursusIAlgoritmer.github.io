@@ -1,5 +1,11 @@
 # Del 9 : Minimum spanning tree : MST
 
+##citat : wikipedia
+
+A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight.[1
+
+
+-----------------------------------------
 Spanning træ er Et udspændende træ...
 
 ## BFS & DFS
