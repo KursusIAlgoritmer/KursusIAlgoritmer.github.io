@@ -8,10 +8,13 @@
 ## 1. Primitive datastrukturer: S&W kapitel 1.3-1.5
 
 # 1.3 Bag, Queues and Stacks
+[2.del : poser, køer og stakke](2Del_poser_koer_stakke/2Del_poser_koer_stakke.md)
 
 # 1.4 Anlysis of Algorithms
+[3.del : algoritme analyse](3Del_algoritmeanalyse/3Del_algoritmeanalyse.md)
 
 # 1.5 Union-find
+[1.del : datastrukturen kaldet uion-find](1Del_Union_find/1Del_Union_find.md)
 
 ----------------------------------------------------------------------------------------------------------------
 
