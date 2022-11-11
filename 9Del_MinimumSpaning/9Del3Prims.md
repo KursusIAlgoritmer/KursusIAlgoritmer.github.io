@@ -94,4 +94,16 @@ TID 1:10
 
 
 # DEN IVRIGE VARIANT
+Så længe der er mere end én kant ud til en knude, i prioitets-køen, er der for mange.
+Der er kun nødvendigt med én.
+...
+Der er to hjælpe arrays- edgeTo[] og en distTo[]:
+
+Dvs. proitetskøen indeholder elementer (v,edgeTo[],distTo[])
+
+## Ny operation i prioitetskøen : inexed pririty queue
+Det skal være muligt at ændre en nøgle, der hører til et bestemt index
+
+
+
 - tilføjer knuder til prioriteteskø sorteret efter vægt  
